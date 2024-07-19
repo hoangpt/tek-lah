@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Loa phường!](README.md)
 
 ## About us
 

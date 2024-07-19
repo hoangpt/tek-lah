@@ -4,10 +4,10 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Welcome!
+# 👋 Loa phường!
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**Lời nói đầu:** Đây là câu chuyện bịa do tác giả tự nghĩ ra, mọi sự trùng hợp chỉ là ngẫu nhiên. Truyện cũng có khá nhiều từ ngữ không đứng đắn, lỗ bỗ, xã giao. Là lúc trà đá, chém gió giữa 2 bạn SE, 1 già, 1 trẻ, Bình Ruồi và Lâm Chồn. Câu chuyện xoay quanh chủ đề "Defensive Programming" (Lập trình phòng thủ).
 {% endhint %}
 
 For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
