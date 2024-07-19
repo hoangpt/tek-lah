@@ -14,26 +14,26 @@ Câu chuyện xoay quanh chủ đề **"Defensive Programming"** (Lập trình p
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="tai-sao-can/sao-can.md" %}
+[sao-can.md](tai-sao-can/sao-can.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="tai-sao-can/la-cai-meo-gi.md" %}
+[la-cai-meo-gi.md](tai-sao-can/la-cai-meo-gi.md)
 {% endcontent-ref %}
 
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="mo-rong/getting-set-up/" %}
+[getting-set-up](mo-rong/getting-set-up/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="mo-rong/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](mo-rong/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="mo-rong/getting-set-up/inviting-members.md" %}
+[inviting-members.md](mo-rong/getting-set-up/inviting-members.md)
 {% endcontent-ref %}

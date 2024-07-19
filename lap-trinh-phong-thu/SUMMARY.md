@@ -2,23 +2,18 @@
 
 * [👋 Chào!](README.md)
 
-## Overview
+## Tại sao cần
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Sao cần?](tai-sao-can/sao-can.md)
+* [✨ Là cái méo gì?](tai-sao-can/la-cai-meo-gi.md)
 
-## Product Guides
+## Cách phòng thủ
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Case cối](cach-phong-thu/case-coi.md)
+* [📎 Tool toys](cach-phong-thu/tool-toys.md)
 
-## Fundamentals
+## Mở rộng
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🛠️ Getting set up](mo-rong/getting-set-up/README.md)
+  * [📝 Setting permissions](mo-rong/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](mo-rong/getting-set-up/inviting-members.md)
