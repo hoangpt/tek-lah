@@ -1,19 +1,17 @@
 # Table of contents
 
-* [👋 Chào!](README.md)
+* [👋 Hi hi!](README.md)
 
-## Tại sao cần
+## 😁 Phòng thủ code
 
-* [💡 Sao cần?](tai-sao-can/sao-can.md)
-* [✨ Là cái méo gì?](tai-sao-can/la-cai-meo-gi.md)
+* [💡 Sao cần Phòng thủ (Defensive) ?](phong-thu-code/sao-can-phong-thu-defensive.md)
+* [✨ Phòng thủ cơ bản?](phong-thu-code/phong-thu-co-ban.md)
 
-## Cách phòng thủ
+## Phòng thủ nâng cao
 
-* [📪 Case cối](cach-phong-thu/case-coi.md)
-* [📎 Tool toys](cach-phong-thu/tool-toys.md)
+* [📪 Thủ với mọi case](phong-thu-nang-cao/thu-voi-moi-case.md)
+* [📎 Tool toys](phong-thu-nang-cao/tool-toys.md)
 
-## Mở rộng
+## Tấn công để thủ
 
-* [🛠️ Getting set up](mo-rong/getting-set-up/README.md)
-  * [📝 Setting permissions](mo-rong/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](mo-rong/getting-set-up/inviting-members.md)
+* [Page 1](tan-cong-de-thu/page-1.md)
