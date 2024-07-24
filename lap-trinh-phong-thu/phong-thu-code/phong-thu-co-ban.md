@@ -28,3 +28,35 @@ BR: he. Thế nên là dev, chú phải thay đổi tư duy. Nếu kiếm đư�
 
 ### Guide 1: Viết function, API validate mọi required params
 
+BR: cái này thì khá dễ hiểu. Nó là case màn hình input kia kìa. Nhưng mở rộng hơn sang API, function nhé. Bản chất chúng ta viết API, Function là cho các bạn dev khác dùng. Nhưng dev cũng có dev that, dev this ... he, nên đé...o tin ông nào hết.
+
+```java
+// function / api check required params (JAVA Demo_
+public function createUser(String username, String password, String[] options){
+    if (username == null || username.equals("")){
+        throw new Exception("Ngoo. Why garbage here?");
+    }
+    if (password == null || password.equals("")){
+        throw new Exception("Hacked me? Cut.");
+    }
+    
+     // .... continue logic
+}
+```
+
+Cái này dẫn tới 1 cái guide rất hay là, càng ít params required càng ít, càng expose ít function càng tốt
+
+### Guide 2: Public functions và required params càng ít càng tốt
+
+BR: Cái này dựa trên lý thuyết, ai cũng "ngoo" nên khi làm API/Function cho bọn khác gọi, càng đơn giản càng tốt. Hãy suy nghĩ như người làm dịch vụ, problem là của tao, còn mày làm giải pháp. Chứ không phải bọn tao dùng 1 sản phẩm ... như bãi rác và đé...o biết dùng sao.
+
+Trong Java, có thể dùng các khái niệm private function (chỉ 1 hoặc 2 functions mình cho dev khác dùng), farcase, module interface, ... Default value cho các params optional là các value cơ bản nhất, chấp nhận cả null.
+
+LC: oh, em tưởng null phải chekc.
+
+BR: chú nhầm. Nhiều business, null cũng là 1 giá trị, không cần set. Như trong db, function đó ghi vào db fullName của user là null. Nghĩa là tạm thời user đó không cung cấp fullName thoai.
+
+BR: nói chung, coding chú hiểu là abstract wrapper nên ít thì đỡ maintain nhiều, và nó cũng có 1 cái rất hay là, kỹ thuật tấn công, tránh thủ mọi nơi overly defensive.
+
+### Guide 3: Exception
+
