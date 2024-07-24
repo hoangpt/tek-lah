@@ -4,7 +4,7 @@
 
 ## This week
 
-* [15 Aug - Mon](this-week/15-aug-mon.md)
+* [240724 - Bàn về seniority trong Software Development](this-week/240724-ban-ve-seniority-trong-software-development.md)
 
 ## Archive
 
