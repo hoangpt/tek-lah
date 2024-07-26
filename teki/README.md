@@ -1,7 +1,7 @@
 # Template page
 
 {% hint style="info" %}
-Duplicate this page for every day you want to track.
+Tinh tuý: Seniority
 {% endhint %}
 
 ## Today's stuff
