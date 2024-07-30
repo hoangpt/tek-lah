@@ -1,8 +1,10 @@
-# 240724 - Bàn về seniority trong Software Development
+# 240724 - Seniority trong SW Devel
 
-> **Tinh tuý**: Một senior SE trước kia cần viết 1 module chất lượng cao, nhưng với công nghệ hiện tại thì 1 senior phải biết chơi lego, giải quyết vấn đề của khách nhanh, rẻ, dùng được
->
-> \--- Cái này là ý kiến cá nhân, đúng sai nhờ mọi người comment thêm.
+{% hint style="info" %}
+**Tinh tuý**: Một senior SE trước kia cần viết 1 module chất lượng cao, nhưng với công nghệ hiện tại thì 1 senior phải biết chơi lego, giải quyết vấn đề của khách nhanh, rẻ, dùng được
+
+\--- Cái này là ý kiến cá nhân, đúng sai nhờ mọi người comment thêm.
+{% endhint %}
 
 ## Chém gió
 

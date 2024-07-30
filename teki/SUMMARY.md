@@ -4,7 +4,8 @@
 
 ## This week
 
-* [240724 - Bàn về seniority trong Software Development](this-week/240724-ban-ve-seniority-trong-software-development.md)
+* [240730 - Review code làm giề](this-week/240730-review-code-lam-gie.md)
+* [240724 - Seniority trong SW Devel](this-week/240724-seniority-trong-sw-devel.md)
 
 ## Archive
 
