@@ -4,14 +4,14 @@
 
 ## FOR PROPOSE SOLUTION
 
-* [🤝 How we Work Together](for-propose-solution/how-we-work-together.md)
-* [📅 Meetings](for-propose-solution/meetings.md)
+* [🤝 Proposal](for-propose-solution/proposal.md)
+* [📅 Estimation](for-propose-solution/estimation.md)
 
 ## FOR PLANNING
 
-* [👋 Meet the Team!](for-planning/meet-the-team/README.md)
-  * [Page 1](for-planning/meet-the-team/page-1.md)
-  * [Page](for-planning/meet-the-team/page.md)
+* [👋 Lập kế hoạch](for-planning/lap-ke-hoach/README.md)
+  * [Các giai đoạn](for-planning/lap-ke-hoach/cac-giai-doan.md)
+  * [Gợi ý câu prompt](for-planning/lap-ke-hoach/goi-y-cau-prompt.md)
 
 ## For coding
 
@@ -21,6 +21,6 @@
   * [Focus](for-coding/function-chinh/focus.md)
 * [💖 Tests](for-coding/tests.md)
 
-## Policies
+## CHALLENGES
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Xây quotes app 100% Copilot](challenges/xay-quotes-app-100-copilot.md)
