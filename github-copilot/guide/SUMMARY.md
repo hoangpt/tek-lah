@@ -4,10 +4,10 @@
 
 ## About us
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
+* [🚀 For coding](about-us/for-coding/README.md)
+  * [Gợi ý code](about-us/for-coding/goi-y-code.md)
+  * [Mission](about-us/for-coding/mission.md)
+  * [Focus](about-us/for-coding/focus.md)
 * [💖 Values](about-us/values.md)
 
 ## Team
