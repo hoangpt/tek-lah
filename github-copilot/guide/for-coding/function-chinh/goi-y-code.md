@@ -1,12 +1,12 @@
 # Gợi ý code
 
-## Mô tả
+## Làm quen
 
 {% hint style="info" %}
 **Concept:** Một trong những tính năng chính của Copilot là code cùng. Khi chúng ta gõ tên functions, hoặc comments (là 1 dạng prompting inline) thì copilot sẽ đưa ra các gợi ý code dưới dạng chữ mờ (ghost text).
 {% endhint %}
 
-## **Ví dụ:**
+### **Ví dụ**
 
 _Input Code_
 
@@ -26,7 +26,7 @@ function calculateSum(a, b) {
 }
 ```
 
-## Bài tập:
+## Thử phát!
 
 * **Bài 1**: Hoàn thiện `calculateSum(a, b)` sử dụng GitHub Copilot's suggestions. Thử với các ngôn ngữ khác và khám phá Copilot hướng dẫn chúng ta như nào.
 * **Bài 2**: Sử dụng Copilot để viết `calculateProduct(a,b)`  và viết chạy thử cho các phép nhân với các cặp khác nhau như (1,2), (-1, 9), (1.000.000, 20.000.000.000).

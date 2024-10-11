@@ -2,22 +2,24 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## FOR PROPOSE SOLUTION
 
-* [🚀 For coding](about-us/for-coding/README.md)
-  * [Gợi ý code](about-us/for-coding/goi-y-code.md)
-  * [Mission](about-us/for-coding/mission.md)
-  * [Focus](about-us/for-coding/focus.md)
-* [💖 Values](about-us/values.md)
+* [🤝 How we Work Together](for-propose-solution/how-we-work-together.md)
+* [📅 Meetings](for-propose-solution/meetings.md)
 
-## Team
+## FOR PLANNING
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Meet the Team!](for-planning/meet-the-team/README.md)
+  * [Page 1](for-planning/meet-the-team/page-1.md)
+  * [Page](for-planning/meet-the-team/page.md)
 
-## Collaborating
+## For coding
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [🚀 Function chính](for-coding/function-chinh/README.md)
+  * [Gợi ý code](for-coding/function-chinh/goi-y-code.md)
+  * [Trò chuyện (Prompting)](for-coding/function-chinh/tro-chuyen-prompting.md)
+  * [Focus](for-coding/function-chinh/focus.md)
+* [💖 Tests](for-coding/tests.md)
 
 ## Policies
 

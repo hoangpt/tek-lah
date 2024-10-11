@@ -7,24 +7,22 @@ coverY: 0
 # 👋 Welcome!
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**Giới thiệu:** GIthub Copilot nói riêng (hay GenAI nói chung) là 1 công cụ trợ giúp cho các công việc hàng ngày dành cho team phát triển phần mềm (thậm chí có thể xây dựng 1-man team). Với việc sử dụng Copilot đúng đắn, hiệu quả mà bạn BOT này đem lại thực sự có giá trị. Hãy thử làm quen.
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
 
 <details>
 
-<summary>How to use it?</summary>
+<summary>Dành cho các bạn Software Engineer?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+Công việc hàng ngày của 1 SE là viết code để đảm bảo logic&#x20;
 
 </details>
 
 <details>
 
-<summary>Contributing</summary>
+<summary>Dành cho các bạn BA</summary>
 
 If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
