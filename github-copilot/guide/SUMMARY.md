@@ -4,8 +4,8 @@
 
 ## FOR PROPOSE SOLUTION
 
-* [🤝 Kiến trúc phần mềm](for-propose-solution/kien-truc-phan-mem.md)
-* [📅 Một số câu hỏi mẫu](for-propose-solution/mot-so-cau-hoi-mau.md)
+* [🤝 Kiến trúc phần mềm](for-propose-solution/how-we-work-together.md)
+* [📅 Một số câu hỏi mẫu](for-propose-solution/meetings.md)
 
 ## FOR PLANNING
 
@@ -15,7 +15,7 @@
 
 ## FOR REQUIREMENT
 
-* [🌴 Xây quotes app 100% Copilot](for-requirement/xay-quotes-app-100-copilot.md)
+* [🌴 Xây quotes app 100% Copilot](challenges/xay-quotes-app-100-copilot.md)
 
 ## For coding
 
@@ -23,7 +23,7 @@
   * [Gợi ý code](for-coding/function-chinh/goi-y-code.md)
   * [Trò chuyện (Prompting)](for-coding/function-chinh/tro-chuyen-prompting.md)
   * [Focus](for-coding/function-chinh/focus.md)
-* [💖 Script Tests](for-coding/script-tests.md)
+* [💖 Script Tests](for-coding/tests.md)
 
 ## FOR QUALITY CONTROL
 

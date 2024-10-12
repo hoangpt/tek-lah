@@ -1,4 +1,4 @@
-# 💖 Values
+# 💖 Script Tests
 
 ## Our Values
 
