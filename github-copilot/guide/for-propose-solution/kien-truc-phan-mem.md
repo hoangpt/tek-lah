@@ -1,4 +1,4 @@
-# 🤝 How we Work Together
+# 🤝 Kiến trúc phần mềm
 
 Being a remote team means that team members are either working from home or from a co-working space.
 
