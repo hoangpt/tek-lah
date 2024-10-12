@@ -2,20 +2,20 @@
 
 * [👋 Welcome!](README.md)
 
-## FOR PROPOSE SOLUTION
+## FOR PROPOSAL
 
-* [🤝 Kiến trúc phần mềm](for-propose-solution/how-we-work-together.md)
-* [📅 Một số câu hỏi mẫu](for-propose-solution/meetings.md)
+* [📅 Prompt cho tài liệu](for-proposal/prompt-cho-tai-lieu.md)
+* [🤝 Kiến trúc phần mềm](for-proposal/kien-truc-phan-mem.md)
 
 ## FOR PLANNING
 
 * [👋 Lập kế hoạch](for-planning/meet-the-team/README.md)
-  * [Các giai đoạn](for-planning/lap-ke-hoach/cac-giai-doan.md)
-  * [Gợi ý câu prompt](for-planning/lap-ke-hoach/goi-y-cau-prompt.md)
+  * [Chiến thuật lập kế hoạch](for-planning/lap-ke-hoach/chien-thuat-lap-ke-hoach.md)
+  * [Một vài ví dụ prompt](for-planning/lap-ke-hoach/mot-vai-vi-du-prompt.md)
 
 ## FOR REQUIREMENT
 
-* [🌴 Xây quotes app 100% Copilot](challenges/xay-quotes-app-100-copilot.md)
+* [🌴 Xây dựng chi tiết](for-requirement/xay-dung-chi-tiet.md)
 
 ## For coding
 
