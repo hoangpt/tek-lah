@@ -11,7 +11,7 @@
 
 * [👋 Lập kế hoạch](for-planning/meet-the-team/README.md)
   * [Chiến thuật lập kế hoạch](for-planning/lap-ke-hoach/chien-thuat-lap-ke-hoach.md)
-  * [Một vài ví dụ prompt](for-planning/lap-ke-hoach/mot-vai-vi-du-prompt.md)
+  * [Mindset tạo prompt hiệu quả](for-planning/lap-ke-hoach/mindset-tao-prompt-hieu-qua.md)
 
 ## FOR REQUIREMENT
 
