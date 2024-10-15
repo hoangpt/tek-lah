@@ -25,6 +25,9 @@
   * [Focus](for-coding/function-chinh/focus.md)
 * [💖 Tests](for-coding/tests/README.md)
   * [Frontend Tests](for-coding/tests/frontend-tests.md)
+  * [Backend Tests](for-coding/tests/backend-tests.md)
+* [😁 Refactoring](for-coding/refactoring.md)
+* [Kết hợp unitest và feature test](for-coding/ket-hop-unitest-va-feature-test.md)
 
 ## FOR QUALITY CONTROL
 
