@@ -1,4 +1,20 @@
-# Gợi ý câu prompt
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Chiến thuật lập kế hoạch
+
+## Chiến thuật lập kế hoạch
 
 Áp dụng hỏi đáp với Copilot trong các giai đoạn planning
 
@@ -10,3 +26,12 @@
 | <p><strong>4. Leverage Copilot for documentation</strong></p><p>Ngoài lên plan, thì Copilot có thể giúp tạo documents hướng  dẫn cài đặt môi trường, tracking các tasks và tạo báo cáo gửi các sếp. (có thể kết hợp với jira hoặc confluence)</p>     | <p><strong>Tạo base documents:</strong></p><p>"Create the base documents and update all enviroments info"</p>                                                                                                                                         |
 | <p><strong>5. Regularly update plans</strong></p><p>Cập nhất liên tục kế hoạch cho phù hợp với tình hình dự án. Dùng copilot để tạo các tasks mới, issues mới, và cập nhật vào plan (có thể dùng MS Project)</p><p></p>                               | <p><strong>Cuối sprint, hãy yêu cầu Copilot cập nhật lại roadmap, đặt lại ưu tiên:</strong></p><p>“Update the project roadmap to reflect the completion of user authentication and the next steps for implementing the product catalog.”</p>          |
 
+## Thử phát
+
+
+
+## Ngẫm
+
+* Thử so sánh Copilot với Chat-GPT xem bên nào ra được plan chi tiết nhất?
+* So sánh với wbs của đội pre-sales và theo dõi xem thực sự project running tốt không?
+* Có thể áp dụng Copilot vào những task nào của PM: tracking, reporting, rủi ro phát sinh, reschedule, cut scope
