@@ -23,7 +23,8 @@
   * [Gợi ý code](for-coding/function-chinh/goi-y-code.md)
   * [Trò chuyện (Prompting)](for-coding/function-chinh/tro-chuyen-prompting.md)
   * [Focus](for-coding/function-chinh/focus.md)
-* [💖 Script Tests](for-coding/tests.md)
+* [💖 Tests](for-coding/tests/README.md)
+  * [Frontend Tests](for-coding/tests/frontend-tests.md)
 
 ## FOR QUALITY CONTROL
 
